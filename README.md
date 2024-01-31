@@ -9,11 +9,11 @@ This project focuses on predicting the likelihood of a patient experiencing a he
 
 ## Goal
 
-The primary goal of this study is to contribute to the early detection and prediction of heart attacks. By analyzing various patient features and employing sophisticated algorithms, we aim to provide valuable insights that can assist healthcare professionals in identifying high-risk individuals.
+The primary goal of this study is to contribute to the early detection and prediction of heart attacks. By analyzing various patient features and employing sophisticated algorithms, I aim to provide valuable insights that can assist healthcare professionals in identifying high-risk individuals.
 
 ## Data
 
-Our predictive model is built upon a comprehensive dataset that includes diverse patient information. Features such as age, gender, resting blood pressure, cholesterol levels, and other relevant factors are considered to create a robust and reliable prediction model.
+My predictive model is built upon a comprehensive dataset that includes diverse patient information. Features such as age, gender, resting blood pressure, cholesterol levels, and other relevant factors are considered to create a robust and reliable prediction model.
 
 ## Requirements
 - Pandas
@@ -36,4 +36,4 @@ The various machine learning algorithms are:
 
 ### Model Evaluation
 
-The model's performance is assessed using various evaluation metrics, ultimately resulting in a final mean accuracy of 87%. This high accuracy rate demonstrates the reliability of our predictive model.
+The model's performance is assessed using various evaluation metrics, ultimately resulting in a final mean accuracy of 87%. This high accuracy rate demonstrates the reliability of my predictive model.
