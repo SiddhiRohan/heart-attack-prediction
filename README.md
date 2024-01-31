@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project focuses on predicting the likelihood of a patient experiencing a heart attack with a high degree of accuracy. Leveraging advanced machine learning techniques, our model has achieved a final mean accuracy of 87%.
+This project focuses on predicting the likelihood of a patient experiencing a heart attack with a high degree of accuracy. Leveraging advanced machine learning techniques, my model has achieved a final mean accuracy of 87%.
 
 ## Goal
 
